@@ -1,6 +1,6 @@
 var data = {
     header_name: 'Md.Atikullah',
-    about_my_self: 'Hi, My name is Md. Atikullah.I am from Bangladesh. I am working as a Software Engineer in TMSS ICT Limited. Previously I have completed my Bsc in Software Engiinering from Green University Of Bangladesh. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.<br>\n' +,
+    about_my_self: 'Hi, My name is Md. Atikullah.I am from Bangladesh. I am working as a Software Engineer in TMSS ICT Limited. Previously I have completed my Bsc in Software Engiinering from Green University Of Bangladesh. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.<br>\n',
     contact_details : 'I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.',
     banner_button_text: 'More about me',
     about_banner_resume_title: 'Resume',
@@ -15,7 +15,6 @@ var data = {
     skype: 'atiqurrahman1503',
     language: 'Bengali, English',
     facebook: 'https://www.facebook.com/atiqurrahman1503/',
-    youtube: '',
     twitter: 'https://twitter.com/MdAtiku14491283',
     linkedin: 'https://www.linkedin.com/in/md-atikullah-564917119/',
     experience_counter: [
