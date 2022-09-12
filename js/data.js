@@ -1,28 +1,23 @@
 var data = {
-    header_name: 'Mahmudul Hasan',
-    about_my_self: 'I\'m a Mahmudul Hasan, Since Now, I have 4+ years plus of extensive hands on experience of website development and Web Application Development.<br> \n' +
-        'I am Strong Developer and leader. I have a high level of personal morals and integrity. I am Goal oriented, self-motivated and committed to the successful outcome of the project. I am willing to work hard and have a great desire to learn.<br>\n' +
-        'I am passionate about building excellent software that improves the lives of those around me<br>.\n' +
-        'Currently working as a Software Engineer at TMSS-ICT.',
-    contact_details : 'Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.',
-    banner_button_text: 'more about me',
-    about_banner_resume_title: 'resume',
-    about_personal_info_title: 'personal infos',
-    first_name: 'Mahmudul',
-    last_name: 'Hasan',
-    email: 'hasanmahmudul356@gmail.com',
-    phone: '01788208626',
-    age: '26 Years',
+    header_name: 'Md.Atikullah',
+    about_my_self: 'Hi, My name is Md. Atikullah.I am from Bangladesh. I am working as a Software Engineer in TMSS ICT Limited. Previously I have completed my Bsc in Software Engiinering from Green University Of Bangladesh. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.<br>\n' +,
+    contact_details : 'I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.',
+    banner_button_text: 'More about me',
+    about_banner_resume_title: 'Resume',
+    about_personal_info_title: 'Personal infos',
+    first_name: 'Md. Atikullah',
+
+    email: 'atiqurrahman1503@gmail.com',
+    phone: '01682448090',
     nationality: 'Bangladeshi',
-    phone: '01788208626',
     freelance: 'Available',
     address: 'Dhaka, Bangladesh',
-    skype: 'mahmudul.hasan7785',
+    skype: 'atiqurrahman1503',
     language: 'Bengali, English',
-    facebook: 'https://www.facebook.com/mahmudul.bashir/',
-    youtube: 'https://www.youtube.com/channel/UC15SdGXA3UGgXYcdixqmSiA',
-    twitter: 'https://twitter.com/hasanmahmudul31',
-    linkedin: 'https://www.linkedin.com/in/mahmudul-hasan-b41724105/',
+    facebook: 'https://www.facebook.com/atiqurrahman1503/',
+    youtube: '',
+    twitter: 'https://twitter.com/MdAtiku14491283',
+    linkedin: 'https://www.linkedin.com/in/md-atikullah-564917119/',
     experience_counter: [
         {count: 5, first_text: 'years of', last_text: 'experience',},
         {count: 20, first_text: 'completed', last_text: 'projects',},
@@ -45,7 +40,7 @@ var data = {
     ],
     experiences: [
         {
-            start_date: 'March-2019',
+            start_date: 'septembor-2021',
             end_date: 'Present',
             designation: 'Software engineer',
             company: 'TMSS-ICT',
@@ -53,10 +48,10 @@ var data = {
             projects: 'Microfinance, Education, News, Water supply, Website'
         },
         {
-            start_date: 'February-2020',
-            end_date: 'October-2020 (Remote)',
+            start_date: 'june-2020',
+            end_date: 'August-2021 (Remote)',
             designation: 'Programmer',
-            company: 'Iddrak (Saudi Arabia)',
+            company: 'Shopner Bangladesh (Saudi Arabia)',
             technology: 'PHP, Laravel, Vue.js',
             projects: 'Training management, Vendor management, Website'
         },
@@ -91,21 +86,21 @@ var data = {
             year: '2015',
             section: 'CSE',
             institute: 'Green University of Bangladesh',
-            result: 'Appeared',
+            result: '2.79',
         },
         {
             name: 'Higher Secondary School Certificate (HSC)',
             year: '2014',
             section: 'Science',
-            institute: 'Masjid Mission Academy (School & College)',
-            result: '3.90',
+            institute: 'Gurudayal Govt College',
+            result: '4.00',
         },
         {
             name: 'Secondary School Certificate (SSC)',
-            year: '2012',
+            year: '2011',
             section: 'Science',
-            institute: 'Paranpur Kamil Madrasah',
-            result: '4.94'
+            institute: 'Hatra Para High School',
+            result: '4.13'
         },
     ],
     trainings: [
@@ -143,28 +138,8 @@ var data = {
             details: '',
             url: '#',
         },
-        {
-            project_name: 'Vendor Management',
-            client: 'Iddrak',
-            role: 'Developer',
-            technology: 'PHP, Laravel, Vue.js,Firebase, SQL',
-            thumbnail: 'thumbnail.png',
-            folder: 'findallvendor/',
-            images: ['thumbnail.png'],
-            details: '#',
-            url: 'https://findallvendors.com/',
-        },
-        {
-            project_name: 'Training Management',
-            client: 'Iddrak',
-            role: 'Developer',
-            technology: 'PHP, Laravel, Vue.js,Firebase, SQL',
-            thumbnail: 'thumbnail.png',
-            folder: 'training/',
-            images: ['thumbnail.png'],
-            details: '',
-            url: 'https://findtrainingprograms.com/',
-        },
+
+
         {
             project_name: 'Microfinance Solution',
             client: 'TMSS-ICT',
@@ -187,27 +162,17 @@ var data = {
             details: '',
             url: '#',
         },
+
         {
-            project_name: 'Online newspaper',
-            client: 'Youthjournal',
+            project_name: 'Education management information system',
+            client: 'Tmss',
             role: 'Developer',
-            technology: 'PHP, Laravel, Vue.js, SQL',
-            thumbnail: 'thumbnail.png',
-            folder: 'youthjournal/',
-            images: ['thumbnail.png'],
-            details: '',
-            url: 'http://youthjournal.net/bn',
-        },
-        {
-            project_name: 'Medical instrument Supply',
-            client: 'Basuka',
-            role: 'Developer',
-            technology: 'PHP, Laravel, Vue.js, SQL',
+            technology: 'PHP, Laravel, SQL',
             thumbnail: 'thumbnail.png',
             folder: 'bashuks/',
             images: ['thumbnail.png'],
             details: '',
-            url: '#',
+            url: 'https://tpsc.edu.bd/frontend',
         },
         {
             project_name: 'PressPhoto (Api)',
