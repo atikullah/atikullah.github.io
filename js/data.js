@@ -23,6 +23,7 @@ var data = {
         {count: 5, first_text: 'Happy', last_text: 'customers',},
         {count: 10, first_text: 'technology', last_text: 'uses',},
     ],
+    
     skills: [
         {name: 'PHP', percent: 80,},
         {name: 'Laravel', percent: 90},
