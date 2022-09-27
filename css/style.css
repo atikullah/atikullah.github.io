@@ -458,9 +458,9 @@ body.light hr.separator {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  height: calc(100vh - 10%);
+  height: calc(100vh - 60px);
   z-index: 111;
-  border-radius: 50%;
+  border-radius: 60%;
   left: 30px;
   top: 30px;
   box-shadow: 0 0 7px rgba(0,0,0,.9);
