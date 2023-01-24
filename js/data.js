@@ -14,8 +14,8 @@ var data = {
     address: 'Dhaka, Bangladesh',
     skype: 'atiqurrahman1503',
     language: 'Bengali, English',
-    facebook: 'https://www.facebook.com/atiqurrahman1503/',
-    twitter: 'https://twitter.com/MdAtiku14491283',
+    facebook: 'https://www.facebook.com/InocentAtik/',
+    twitter: 'https://twitter.com/InocentAtik',
     linkedin: 'https://www.linkedin.com/in/md-atikullah-564917119/',
     experience_counter: [
         {count: 5, first_text: 'years of', last_text: 'experience',},
