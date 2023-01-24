@@ -16,7 +16,7 @@ var data = {
     language: 'Bengali, English',
     facebook: 'https://www.facebook.com/InocentAtik/',
     twitter: 'https://twitter.com/InocentAtik',
-    linkedin: 'https://www.linkedin.com/in/md-atikullah-564917119/',
+    linkedin: 'https://www.linkedin.com/in/atik15/',
     experience_counter: [
         {count: 5, first_text: 'years of', last_text: 'experience',},
         {count: 20, first_text: 'completed', last_text: 'projects',},
